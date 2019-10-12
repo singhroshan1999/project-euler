@@ -1,16 +1,21 @@
 public class _4 {
     //    https://www.projecteuler.net/problem=4
+    // wrong
     static boolean divide_check(int x,int y,int n){
-        for (int i = x; i <= y; i++) {
-            if(n%i == 0) return true;
+        for (int i = x; i <= y; i--) {
+
+            if(n%i == 0 ) return true;
         }
         return false;
     }
     static int max_out(int n,int di,int d,int limit){
         int temp = n;
         while(limit >= temp){
-            n = temp;
-//            System.out.println("t"+n);
+            if(divide_check(999,100,temp)) {
+                n = temp;
+                System.out.println(temp);
+            }
+            System.out.println("t"+temp);
             temp += Math.pow(10,di) + Math.pow(10,d-di);
         }
         return n;
@@ -34,6 +39,6 @@ public class _4 {
 
         _zEr0tWoZeRo0nEoNenInEnInEnInE_ThIsIsOnLyFoRBeNcHmArKiNgNoThInGElSe -= System.nanoTime();
         System.out.println("result="+result);
-        System.out.println("mills="+Math.abs(_zEr0tWoZeRo0nEoNenInEnInEnInE_ThIsIsOnLyFoRBeNcHmArKiNgNoThInGElSe)/(1000.0));
+        System.out.println("mills="+Math.abs(_zEr0tWoZeRo0nEoNenInEnInEnInE_ThIsIsOnLyFoRBeNcHmArKiNgNoThInGElSe)/(1000.0*1000.0*1000.0));
     }
 }

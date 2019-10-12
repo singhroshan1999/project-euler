@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e21eace5-19bd-4e06-a38a-9d53a40c4a58" name="Default Changelist" comment="" />
+    <list default="true" id="e21eace5-19bd-4e06-a38a-9d53a40c4a58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boilerPlate.java" beforeDir="false" afterPath="$PROJECT_DIR$/boilerPlate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_euler/_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_euler/_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_2.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1S3nsHUkYq8MBmztdCeb99q6emx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,30 +44,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._4">
-    <configuration name="_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1" />
+  <component name="RunManager" selected="Application._8_2">
+    <configuration name="_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_6" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2" />
+    <configuration name="_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3" />
+    <configuration name="_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4" />
+    <configuration name="_8_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_8_2" />
+      <module name="project_euler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_N" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,10 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._4" />
-        <item itemvalue="Application._3" />
-        <item itemvalue="Application._2" />
-        <item itemvalue="Application._1" />
+        <item itemvalue="Application._8" />
+        <item itemvalue="Application._8_2" />
+        <item itemvalue="Application._N" />
+        <item itemvalue="Application._7" />
+        <item itemvalue="Application._6" />
       </list>
     </recent_temporary>
   </component>
@@ -78,5 +102,16 @@
       <updated>1570801351347</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
