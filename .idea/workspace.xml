@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21eace5-19bd-4e06-a38a-9d53a40c4a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_10_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_13_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boilerPlate.java" beforeDir="false" afterPath="$PROJECT_DIR$/boilerPlate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project_euler/_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_euler/_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,37 +46,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._8_2">
-    <configuration name="_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_6" />
+  <component name="RunManager" selected="Application._12">
+    <configuration name="_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7" />
+    <configuration name="_10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_2" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8" />
+    <configuration name="_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_8_2" />
+    <configuration name="_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_N" />
+    <configuration name="_13_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_2" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._8" />
-        <item itemvalue="Application._8_2" />
-        <item itemvalue="Application._N" />
-        <item itemvalue="Application._7" />
-        <item itemvalue="Application._6" />
+        <item itemvalue="Application._12" />
+        <item itemvalue="Application._13_2" />
+        <item itemvalue="Application._13" />
+        <item itemvalue="Application._10_2" />
+        <item itemvalue="Application._10" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +110,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
