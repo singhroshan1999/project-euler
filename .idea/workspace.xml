@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e21eace5-19bd-4e06-a38a-9d53a40c4a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_10_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_13_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_16_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_16_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/project_euler/_67.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_16_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_16_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_67.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_euler/_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_euler/_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project_euler/_10_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project_euler/_10_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +38,11 @@
   </component>
   <component name="ProjectId" id="1S3nsHUkYq8MBmztdCeb99q6emx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -46,37 +55,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._12">
-    <configuration name="_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10" />
+  <component name="RunManager" selected="Application._20">
+    <configuration name="_16_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_16_3" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_2" />
+    <configuration name="_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_18" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12" />
+    <configuration name="_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_20" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13" />
+    <configuration name="_67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_67" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13_2" />
+    <configuration name="p067" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p067" />
       <module name="project_euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._12" />
-        <item itemvalue="Application._13_2" />
-        <item itemvalue="Application._13" />
-        <item itemvalue="Application._10_2" />
-        <item itemvalue="Application._10" />
+        <item itemvalue="Application._20" />
+        <item itemvalue="Application._67" />
+        <item itemvalue="Application.p067" />
+        <item itemvalue="Application._18" />
+        <item itemvalue="Application._16_3" />
       </list>
     </recent_temporary>
   </component>
